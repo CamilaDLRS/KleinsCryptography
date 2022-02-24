@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace CryptographyKlen
+namespace KleinsCryptography
 {
     /// <summary>
     /// Create by Camila Delarosa, based on Carlos Klein code
