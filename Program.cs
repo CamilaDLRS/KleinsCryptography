@@ -16,7 +16,7 @@ namespace KleinsCryptography
             string action;
             string EncryptionKey;
 
-            Console.WriteLine("WELCOME TO CRYPTOGRAPHY OF KLEIN");
+            Console.WriteLine("WELCOME TO KLEIN'S CRYPTOGRAPHY");
             do
             {
                 Console.WriteLine("\nTo encrypt, type 0\nTo decrypt, type 1,\nTo close program, type 2");
